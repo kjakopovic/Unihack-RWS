@@ -44,8 +44,8 @@ UrbanPulse also incorporates AI-powered tools:
 
 ## 📧 Contact
 
-[![LinkedIn KJ badge](https://img.shields.io/badge/LinkedIn-kjakopovic-%230A66C2?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/karlo-jakopovi%C4%87-24595027a/)
+[![LinkedIn Ivosevic badge](https://img.shields.io/badge/LinkedIn-mivosevic-%230A66C2?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/marin-ivo%C5%A1evi%C4%87-634064269/)
+[![LinkedIn Kovacevic badge](https://img.shields.io/badge/LinkedIn-dkovacevic-%230A66C2?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/dominik-kova%C4%8Devi%C4%87-87a720337/)
 [![LinkedIn Nolan badge](https://img.shields.io/badge/LinkedIn-nolanilisic-%230A66C2?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/nolan-ilisi%C4%87-aab4a32a3/)
 [![LinkedIn Majki badge](https://img.shields.io/badge/LinkedIn-majki-%230A66C2?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/marin-mikulec-26b0a829b/)
--- ivosevic
--- kovacevic
+[![LinkedIn KJ badge](https://img.shields.io/badge/LinkedIn-kjakopovic-%230A66C2?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/karlo-jakopovi%C4%87-24595027a/)
