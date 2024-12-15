@@ -41,7 +41,6 @@ UrbanPulse also incorporates AI-powered tools:
 ![[Jupyter Notebook badge](badge)](https://img.shields.io/badge/Jupyter-Note-%23F37626?logo=jupyter&logoColor=white&labelColor=gray) | ![[AWS DynamoDB badge](badge)](https://img.shields.io/badge/DynamoDB-AWS-%234053D6?logo=amazondynamodb&logoColor=white&labelColor=gray) | ![[Docker badge](badge)](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=%232496ED&labelColor=gray) | ![[TailwindCSS badge](badge)](https://img.shields.io/badge/Tailwind-CSS-%2306B6D4?logo=css3&logoColor=%2306B6D4&labelColor=gray) |
 ![[Tensorflow badge](badge)](https://img.shields.io/badge/TensorFlow-2.18.0-%23FF6F00?logo=tensorflow&logoColor=%23FF6F00&labelColor=gray) | ![[AWS Lambda badge](badge)](https://img.shields.io/badge/Lambda-AWS-%23FF9900?logo=awslambda&logoColor=%23FF9900&labelColor=gray) | | ![[ReactNative badge](badge)](https://img.shields.io/badge/ReactNative-Expo-%23000020?logo=expo&logoColor=white&labelColor=gray) |
 | | ![[AWS S3 badge](badge)](https://img.shields.io/badge/S3-AWS-%23569A31?logo=amazons3&logoColor=%23569A31&labelColor=gray) | | |
-| | | | |
 
 ## 📧 Contact
 
